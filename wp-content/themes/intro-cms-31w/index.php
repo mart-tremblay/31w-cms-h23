@@ -1,1 +1,1 @@
-<?php
+<h1>Bonjour la police! (RBO)</h1>
